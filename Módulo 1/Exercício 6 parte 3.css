@@ -1,0 +1,12 @@
+.destacado {
+    color: gold;
+}
+
+.em-maiuscula {
+    text-transform: uppercase;
+}
+
+#whatsapp {
+    background-color: green;
+    color: white;
+}
